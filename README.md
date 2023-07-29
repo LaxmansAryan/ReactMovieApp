@@ -14,7 +14,7 @@ Demo
 ## Installation
 To run MovieLand locally on your machine, follow these steps:
 
-- Clone the repository: git clone 
+- Clone the repository: git clone https://github.com/LaxmansAryan/ReactMovieApp.git
 - Navigate to the project folder: cd movieland
 - Install dependencies: npm install or yarn install
 - Start the development server: npm start or yarn start
